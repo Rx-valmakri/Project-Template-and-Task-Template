@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <menuitem id="project_template_in_project" name="Templates" parent="project.menu_main_pm" sequence="5">
+        <menuitem id="project_templates" name="Project Templates" action="project_template_action"/>
+        <menuitem id="task_templates" name="Task Templates" action="task_template_action"/>
+    </menuitem>
+</odoo>
